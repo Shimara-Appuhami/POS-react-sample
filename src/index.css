@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+
+:root {
+    font-family: Poppins, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.homeBody {
+    width: 100vw;
+    background-color: aqua;
+}
